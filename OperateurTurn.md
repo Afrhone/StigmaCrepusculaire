@@ -1,4 +1,5 @@
-# Stigmatisation | Sigma Tau 54
+# Stigmatisation | Lamda Tau Universe
+### Sigma Cosmos
 ***Latent*Space**
 Almanach
 
