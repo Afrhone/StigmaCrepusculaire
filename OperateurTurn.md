@@ -39,9 +39,14 @@ Mada | Phi | Koalt Noent
 | None
 Tauriga
 |    en
-- unitary "idle"
-"GENOSYS"
+- unitary
+- "idle"
+- "GENOSYS"
+- Tern
 
+- Pivot Turn ô Phi opsys
+
+opt ""naja
  _____________________________________________________
 ### review target baseline « operatau » Concordence
 october 28–29 / san francisco, CA                   
