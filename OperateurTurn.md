@@ -3,7 +3,7 @@
 ***Latent*Space**
 Almanach
 
-- Ser - Ortie Spoon
+(Ser, Ortie Spoon)
 
 **Spring Summary**
 ***Sommaire***
