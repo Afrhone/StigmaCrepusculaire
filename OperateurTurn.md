@@ -3,7 +3,8 @@
 ***Latent*Space**
 Almanach
 
-(Ser, Ortie Spoon)
+**Namespace**
+(Ser: Ortie Spoon)
 
 **Spring Summary**
 ***Sommaire***
@@ -55,6 +56,5 @@ Tauriga
 opt ""naja
  _____________________________________________________
 ### review target baseline « operatau » Concordence
-october 28–29 / san francisco, CA                   
+october 28–29 / san francisco, CA               
 ------------------------------------------------------          
-------------------------------------------------------
