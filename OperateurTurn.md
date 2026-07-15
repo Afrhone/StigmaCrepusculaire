@@ -3,13 +3,12 @@
 ***Latent*Space**
 Almanach
 
-Ser
-Ortie Spoon
+- Ser - Ortie Spoon
 
-Spring Summary
-Summer Sommaire
-um zu check direction
-ob e d g
+**Spring Summary**
+***Sommaire***
+****um zu check direction****
+**ob** **sysopt**
 
 
 ## Noon
